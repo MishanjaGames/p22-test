@@ -2,4 +2,5 @@ class Student
 {
 protected:
 public:
+	Student();
 };
